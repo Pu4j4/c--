@@ -2,14 +2,14 @@
 using namespace std;
 
 // declaring a function
-void greet() {
-    cout << "Hello there!";
+void greeting()
+{
+    cout << "Hello Guys!";
 }
 
-int main() {
-
+int main()
+{
     // calling the function
-    greet();
-
+    greeting();
     return 0;
 }
