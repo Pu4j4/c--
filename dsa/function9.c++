@@ -11,6 +11,7 @@ int main() {
     // Input the number
     std::cout << "Enter a number: ";
     std::cin >> number;
+    std::cin>> number;
 
     // Calculate and print the square of the number
     std::cout << "Square of " << number << " is: " << square(number);
