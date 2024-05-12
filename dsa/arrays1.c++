@@ -10,7 +10,6 @@ int main()
     A[1]=3;
     A[2]=4;
     A[3]=5;
-    A[4]=6;
     for(int i=0;i<n;i++){
         cout<<A[i]<<endl;
     }    
